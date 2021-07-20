@@ -35,11 +35,9 @@
                        <div class="col ">
                        <button type="submit" class="btn btn-md btn-primary">SIMPAN</button>
                        <a href="{{ route('makul')}}" class="btn btn-md btn-danger">BATAL</a>
-                       </div>
-
-                       
+                       </div>                      
                    </div>
-                   </div>
+             </div>
 
                    </form>
 
